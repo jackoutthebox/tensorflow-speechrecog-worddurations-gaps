@@ -1,4 +1,7 @@
-# Tensorflow Speech Recognition
+# Tensorflow Speech Recognition modification
+This project will build on the existing model and add word durations and gap duration as semantic features into the NLP 
+
+
 Speech recognition using google's [tensorflow](https://github.com/tensorflow/tensorflow/) deep learning framework, [sequence-to-sequence](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) neural networks.
 
 Replaces [caffe-speech-recognition](https://github.com/pannous/caffe-speech-recognition), see there for some background.
